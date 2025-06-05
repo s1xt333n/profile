@@ -16,15 +16,14 @@ I'm a content creator passionate about video editing and exploring the world of 
 ## 🛠️ Tech Stack
 
 ### Expert Level - Video Creation
-![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=premiere,aftereffects&theme=dark" alt="Video Editing Skills" />
+</div>
 
 ### Learning Journey - Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,go,rust&theme=dark" alt="Programming Skills" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -64,15 +63,7 @@ Rust              ██░░░░░░░░░░░░░░░░░░�
 ## 🎮 Discord Activity
 
 <div align="center">
-  <!-- Replace YOUR_DISCORD_ID with your actual Discord ID -->
   <img src="https://discord-readme-badge.vercel.app/api?id=1057727800762695700" alt="Discord" />
-</div>
-
-<!-- Alternative Discord connection -->
-<div align="center">
-  <a href="https://discord.gg/YOUR_DISCORD_INVITE">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
 
 ## 🌐 Connect With Me
