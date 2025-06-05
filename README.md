@@ -1,23 +1,24 @@
 # Hey there! 👋 I'm @s1xt333n
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Video+Editing+Master;Motion+Graphics+Specialist;Learning+Web+Development;Always+Exploring+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Video+Editing+Master;Motion+Graphics+Specialist;Music+Producer;Learning+Web+Development;Always+Exploring+New+Tech" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
 
-I'm a content creator passionate about video editing and exploring the world of development. My expertise lies in visual creation, and I'm currently diving into the programming universe.
+I'm a content creator passionate about video editing, music production, and exploring the world of development. My expertise lies in visual creation and audio production, and I'm currently diving into the programming universe.
 
 - 🎬 **Video Editing Expert**: Master of Adobe Premiere Pro & After Effects
+- 🎵 **Music Producer**: Expert in FL Studio
 - 🌐 **Aspiring Developer**: Learning HTML, CSS and more
 - 📚 **Currently Studying**: JavaScript, Go, and Rust
 - 🎮 **Discord Active**: Part of creative and dev communities
 
 ## 🛠️ Tech Stack
 
-### Expert Level - Video Creation
+### Expert Level - Creative Suite
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=premiere,aftereffects&theme=dark" alt="Video Editing Skills" />
+  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,fl&theme=dark" alt="Creative Skills" />
 </div>
 
 ### Learning Journey - Development
@@ -35,6 +36,7 @@ I'm a content creator passionate about video editing and exploring the world of 
 ## 🎨 What I'm Working On
 
 - 🎬 Creating cinematic content with advanced motion graphics
+- 🎵 Producing beats and soundtracks in FL Studio
 - 🌐 Learning web development fundamentals
 - 📖 Exploring JavaScript and its ecosystem
 - 🚀 Diving into systems programming with Go and Rust
@@ -45,6 +47,7 @@ I'm a content creator passionate about video editing and exploring the world of 
 ```text
 Premiere Pro      ████████████████████████████████████████   100%
 After Effects     ████████████████████████████████████████   100%
+FL Studio         ████████████████████████████████████████   100%
 HTML/CSS          ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    30%
 JavaScript        ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    15%
 Go                ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    10%
@@ -56,6 +59,7 @@ Rust              ██░░░░░░░░░░░░░░░░░░�
 <!-- Add your video projects and learning repos here -->
 ```
 🎬 Video Portfolio - Showcase of editing masterpieces
+🎵 Music Collection - Original beats and soundtracks
 📚 Learning Journey - Documenting my path into development
 🎮 Discord Bots - Exploring automation and community tools
 ```
@@ -83,10 +87,11 @@ Rust              ██░░░░░░░░░░░░░░░░░░�
 ## 💭 Fun Facts
 
 - 🎬 I can transform raw footage into cinematic masterpieces
-- 🌙 Late night editing sessions with good music hit different
+- 🎵 My beats hit different when the inspiration strikes
+- 🌙 Late night creative sessions with good music hit different
 - 🦀 Rust syntax looks intimidating but fascinating
 - 🎮 Always available on Discord for creative collaborations
-- 🚀 From pixels to code - exploring new creative frontiers
+- 🚀 From pixels to beats to code - exploring all creative frontiers
 
 ---
 
