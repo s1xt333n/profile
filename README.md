@@ -29,8 +29,8 @@ I'm a content creator passionate about video editing, music production, and expl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1xt333n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1xt333n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s1xt333n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1xt333n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800&exclude_repo=README" height="150" alt="languages graph" />
 </div>
 
 ## 🎨 What I'm Working On
@@ -56,7 +56,6 @@ Rust              ██░░░░░░░░░░░░░░░░░░�
 
 ## 🌟 Featured Projects
 
-<!-- Add your video projects and learning repos here -->
 ```
 🎬 Video Portfolio - Showcase of editing masterpieces
 🎵 Music Collection - Original beats and soundtracks
