@@ -1,14 +1,14 @@
-<img src="image1" alt="Bannière" width="100%">
+<img src="image1.jpg" alt="Bannière" width="100%">
 
 <h2 align="center"> 🌟 About s1xt333n : </h2>
 
 <a href="https://discord.com/users/1057727800762695700">
-    <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/YOUR_DISCORD_ID?animatedDecoration=true&animated=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&showDisplayName=false&hideDecoration=false&hideClan=false&theme=dark&waveColor=6c5ce7&gradient=a29bfe">
+    <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/1057727800762695700?animatedDecoration=true&animated=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&showDisplayName=false&hideDecoration=false&hideClan=false&theme=dark&waveColor=6c5ce7&gradient=a29bfe">
 </a>
 
 ```json
 {
-    "⏳ age": "??",
+    "⏳ age": "22",
     "🎯 status": "Developer",
     "🎮 interests": ["Coding", "Gaming", "Tech"],
     "🔧 currently working on": {
@@ -66,7 +66,7 @@
 <h2 align="center"> 📞 Connect With Me </h2>
 
 <p align="center">
-    <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <a href="https://discord.com/users/1057727800762695700">
         <img src="https://skillicons.dev/icons?i=discord&theme=dark">
     </a>
     <a href="https://twitter.com/YOUR_TWITTER">
@@ -76,12 +76,6 @@
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
     </a>
 </p>
-
-<div align="center">
-    
-<img src="image2" alt="Character Art" width="80%">
-
-</div>
 
 ---
 
