@@ -1,4 +1,4 @@
-![image1](image1)
+<img src="image1" alt="Bannière" width="100%">
 
 <h2 align="center"> 🌟 About s1xt333n : </h2>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
     
-![image2](image2)
+<img src="image2" alt="Character Art" width="80%">
 
 </div>
 
