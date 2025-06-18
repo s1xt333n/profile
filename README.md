@@ -3,7 +3,7 @@
 <h2 align="center"> 🌟 About s1xt333n : </h2>
 
 <a href="https://discord.com/users/1057727800762695700">
-    <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/1057727800762695700?animatedDecoration=true&animated=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&showDisplayName=false&hideDecoration=false&hideClan=false&theme=dark&waveColor=6c5ce7&gradient=a29bfe">
+    <img align="right" width="425" src="https://api.lanyard.rest/v1/users/1057727800762695700/widget?theme=dark&bg=1a1a1a&borderRadius=10">
 </a>
 
 ```json
