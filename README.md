@@ -2,9 +2,7 @@
 
 <h2 align="center"> 🌟 About s1xt333n : </h2>
 
-<a href="https://discord.com/users/1057727800762695700">
-    <img align="right" width="425" src="https://api.lanyard.rest/v1/users/1057727800762695700/widget?theme=dark&bg=1a1a1a&borderRadius=10">
-</a>
+<img align="right" width="425" src="https://api.lanyard.rest/v1/users/1057727800762695700/widget?theme=dark&bg=1a1a1a&borderRadius=10">
 
 ```json
 {
