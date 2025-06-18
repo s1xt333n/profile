@@ -2,7 +2,7 @@
 
 <h2 align="center"> 🌟 About s1xt333n : </h2>
 
-<img align="right" width="425" src="https://api.lanyard.rest/v1/users/1057727800762695700/widget?theme=dark&bg=1a1a1a&borderRadius=10">
+<img align="right" width="425" src="https://lanyard.cnrad.dev/api/1057727800762695700">
 
 ```json
 {
@@ -49,17 +49,6 @@
 <h2 align="center"> 📈 Activity Graph </h2>
 
 [![s1xt333n's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s1xt333n&theme=tokyo-night&custom_title=My%20Contribution%20Graph&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h2 align="center"> 🎨 Featured Projects </h2>
-
-<div align="center">
-    <a href="https://github.com/s1xt333n/PROJECT_NAME_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s1xt333n&repo=PROJECT_NAME_1&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/s1xt333n/PROJECT_NAME_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s1xt333n&repo=PROJECT_NAME_2&theme=tokyonight" />
-    </a>
-</div>
 
 <h2 align="center"> 📞 Connect With Me </h2>
 
