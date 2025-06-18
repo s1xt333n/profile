@@ -1,64 +1,92 @@
-# @s1xt333n
+![image1](image1)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Video+Editing+Master;Motion+Graphics+Specialist;Music+Producer;Learning+Web+Dev;Exploring+New+Tech" alt="Typing SVG" />
-</div>
+<h2 align="center"> 🌟 About s1xt333n : </h2>
 
-## About
+<a href="https://discord.com/users/1057727800762695700">
+    <img align="right" width="425" src="https://lanyard.kyrie25.dev/api/YOUR_DISCORD_ID?animatedDecoration=true&animated=true&hideNameplate=false&hideTimestamp=false&hideBadges=false&hideActivity=false&showDisplayName=false&hideDecoration=false&hideClan=false&theme=dark&waveColor=6c5ce7&gradient=a29bfe">
+</a>
 
-Content creator focused on video, music, and code. Blending visuals, sound, and development.
-
-- 🎬 Premiere Pro / After Effects expert  
-- 🎧 Producer with FL Studio  
-- 🌐 Learning HTML, CSS, JS, Go, Rust  
-- 💬 Active in creative/dev Discords  
-
-## Tools
-
-**Creative**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,fl&theme=dark" />
-</div>
-
-**Dev (learning)**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,go,rust&theme=dark" />
-</div>
-
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1xt333n&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1xt333n&layout=compact&langs_count=8&theme=dracula" height="150" />
-</div>
-
-## Now
-
-- Cinematic edits  
-- Beat production  
-- Web dev foundations  
-- Playing with JS, Go, Rust  
-- Bots & automation  
-
-## Skills Progress
-
-```text
-Premiere Pro      ████████████████████████████████████████   100%
-After Effects     ████████████████████████████████████████   100%
-FL Studio         ████████████████████████████████████████   100%
-HTML/CSS          ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    30%
-JavaScript        ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    15%
-Go                ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    10%
-Rust              ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     5%
+```json
+{
+    "⏳ age": "??",
+    "🎯 status": "Developer",
+    "🎮 interests": ["Coding", "Gaming", "Tech"],
+    "🔧 currently working on": {
+        "1️⃣": "Personal Projects",
+        "2️⃣": "Learning New Technologies",
+        "3️⃣": "Open Source Contributions"               
+    },
+    "🌍 location": "Somewhere on Earth"
+}
 ```
-🎧 [Play the latest beat](https://s1xt333n.github.io)
-## Projects
 
-- 🎞️ Video showcase  
-- 🎶 Original beats  
-- 📘 Dev learning log  
-- 🤖 Discord bots  
+<br>
+
+<h2 align="center"> 💻 Tech Stack & Tools</h2>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github&theme=dark"><br>
+    <img src="https://skillicons.dev/icons?i=vscode,docker,linux,mongodb,mysql&theme=dark">
+</p>
+
+<h2 align="center"> 📚 Currently Learning </h2>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=rust,go,kubernetes,aws&theme=dark">
+</p>
+
+<h2 align="center"> 📊 GitHub Stats </h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=s1xt333n&label=Profile%20views&color=0e75b6&style=flat" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s1xt333n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1xt333n&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+<h2 align="center"> 🔥 Streak Stats </h2>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1xt333n&theme=tokyonight" alt="s1xt333n" />
+</div>
+
+<h2 align="center"> 📈 Activity Graph </h2>
+
+[![s1xt333n's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s1xt333n&theme=tokyo-night&custom_title=My%20Contribution%20Graph&hide_border=true&days=40)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h2 align="center"> 🎨 Featured Projects </h2>
+
+<div align="center">
+    <a href="https://github.com/s1xt333n/PROJECT_NAME_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s1xt333n&repo=PROJECT_NAME_1&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/s1xt333n/PROJECT_NAME_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=s1xt333n&repo=PROJECT_NAME_2&theme=tokyonight" />
+    </a>
+</div>
+
+<h2 align="center"> 📞 Connect With Me </h2>
+
+<p align="center">
+    <a href="https://discord.com/users/YOUR_DISCORD_ID">
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark">
+    </a>
+    <a href="https://twitter.com/YOUR_TWITTER">
+        <img src="https://skillicons.dev/icons?i=twitter&theme=dark">
+    </a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
+    </a>
+</p>
+
+<div align="center">
+    
+![image2](image2)
+
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=s1xt333n&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
+
+<h3 align="center">⭐️ From s1xt333n with ❤️</h3>
